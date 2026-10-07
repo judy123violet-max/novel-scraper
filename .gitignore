@@ -1,0 +1,7 @@
+﻿*.log
+.DS_Store
+node_modules/
+__pycache__/
+tmp/
+output/
+*.txt
